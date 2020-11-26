@@ -36,6 +36,5 @@ def saySomething(hiOrBye, username):
 	"""
 	hiOrBye(username)
 
-myName="EEgiord"
-saySomething(sayBye,myName) 
-
+myName="giocic2"
+saySomething(sayBye,myName)

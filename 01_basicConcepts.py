@@ -11,9 +11,9 @@ print("Floor division: "+str(11/2))
 print("Now i will repeat \"Hello wordl!\" for three times:")
 print("HelloWorld!"*3)
 print("Now let's define some variables, and then print their values separately.")
-myName="giord"
-myPrefix="EE"
-myAge=26
+myName="giocic2"
+myPrefix="_"
+myAge=20
 print(myName)
 print(myPrefix)
 print(myAge)
@@ -21,7 +21,7 @@ print(myAge)
 # del myName
 # print(myName)
 # print("Can this message be desplayed after the print error?")
-# NB: Of course not. The error ended the program. 
+# NB: Of course not. The error ended the program.
 # This is the way you can write comments (only single line is accepted).
 # Otherwise you should use docstrings.
 print("Let's take some user input.")
